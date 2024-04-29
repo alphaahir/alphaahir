@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++ and dsa
 - 💞️ I’m looking to collaborate on open source programs
 - 📫 How to reach me edualphaahir@gamil.com
-I am web developer
+
 
 <!---
 alphaahir/alphaahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
