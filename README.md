@@ -2,8 +2,8 @@
 - 👀 I’m interested in open source and development
 - 🌱 I’m currently learning c++ and dsa
 - 💞️ I’m looking to collaborate on open source programs
-- 📫 How to reach me edualphaahir@gamil.com
-
+- 📫 How to reach me zalphaahir@gamil.com
+- and currently learning Android devlopment 
 
 <!---
 alphaahir/alphaahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
