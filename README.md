@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning c++ and dsa
 - 💞️ I’m looking to collaborate on open source programs
 - 📫 How to reach me zalphaahir@gamil.com
+- if you have any query do write me 
 
 
 <!---
