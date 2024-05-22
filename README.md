@@ -1,4 +1,4 @@
-hs8sgsueiww8uwhe8eve- 👋 Hi, I’m @alphaahir
+- 👋 Hi, I’m @alphaahir
 - 👀 I’m interested in open source and development
 - 🌱 I’m currently learning c++ and dsa
 - 💞️ I’m looking to collaborate on open source programs
